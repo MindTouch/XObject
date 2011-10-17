@@ -1,0 +1,22 @@
+bin/
+dist/
+*resharper.user
+[Dd]ebug/
+[Rr]elease/
+Signed Debug/
+Signed Release/
+obj/
+*.ncb
+*.suo
+_ReSharper.*/
+*.pdb
+*.snk
+*.user
+*.log
+App_Data/
+*.pidb
+*.test-cache
+*.userprefs
+*.resources
+*.cache
+*.pidb

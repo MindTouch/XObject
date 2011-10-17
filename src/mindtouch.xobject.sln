@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mindtouch.xobject", "mindtouch.xobject\mindtouch.xobject.csproj", "{F1F9B6FB-E4BF-4924-AE7F-CE27F7BEC31F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mindtouch.xobject.tests", "mindtouch.xobject.tests\mindtouch.xobject.tests.csproj", "{FA314C21-B30F-4897-86A6-7E5E64EBCD54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Signed Release|Any CPU = Signed Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1F9B6FB-E4BF-4924-AE7F-CE27F7BEC31F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F9B6FB-E4BF-4924-AE7F-CE27F7BEC31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F9B6FB-E4BF-4924-AE7F-CE27F7BEC31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F9B6FB-E4BF-4924-AE7F-CE27F7BEC31F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F9B6FB-E4BF-4924-AE7F-CE27F7BEC31F}.Signed Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F9B6FB-E4BF-4924-AE7F-CE27F7BEC31F}.Signed Release|Any CPU.Build.0 = Release|Any CPU
+		{FA314C21-B30F-4897-86A6-7E5E64EBCD54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA314C21-B30F-4897-86A6-7E5E64EBCD54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA314C21-B30F-4897-86A6-7E5E64EBCD54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA314C21-B30F-4897-86A6-7E5E64EBCD54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA314C21-B30F-4897-86A6-7E5E64EBCD54}.Signed Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA314C21-B30F-4897-86A6-7E5E64EBCD54}.Signed Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
